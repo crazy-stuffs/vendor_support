@@ -44,7 +44,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
-import com.android.internal.libremobileos.hardware.LineageHardwareManager;
+import com.libremobileos.hardware.LineageHardwareManager;
 import com.libremobileos.support.R;
 
 
