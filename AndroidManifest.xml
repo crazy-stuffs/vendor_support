@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.libremobileos.support">
+    package="com.everest.support">
 
     <uses-sdk
         android:minSdkVersion="27" />
